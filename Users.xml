@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user id="1">
+<username>N Sreeja</username>
+<address>Nalgonda</address>
+<phone>9515513877</phone>
+<email>sreejareddy@gmail.com</email>
+</user>
+
+<user id="2">
+<username>P Kiran</username>
+<address>Malakpet</address>
+<phone>9155939219</phone>
+<email>kiranreddy@gmail.com</email>
+</user>
+
+<user id="3">
+<username>N Naveen</username>
+<address>SR Nagar</address>
+<phone>9456786666</phone>
+<email>Naveen@yahoo.com</email>
+</user>
+
+<user id="4">
+<username>Lohith</username>
+<address>Noida</address>
+<phone>9874561238</phone>
+<email>lohithreddy@gmail.com</email>
+</user>
+
+<user id="5">
+<username>Sathvika</username>
+<address>Adilabad</address>
+<phone>8234550101</phone>
+<email>Sathvika2724@gmail.com</email>
+</user>
+
+<user id="6">
+<username>V Ruchitha</username>
+<address>vikarabad</address>
+<phone>968875554</phone>
+<email>Ruhitha1234@yahoo.com</email>
+</user>
+
+<user id="7">
+<username>V Anitha</username>
+<address>KPHB</address>
+<phone>968888554</phone>
+<email>V Anitha@yahoo.com</email>
+</user>
+
+<user id="8">
+<username>M Rajesh</username>
+<address>IBP</address>
+<phone>968878554</phone>
+<email>rajesh123@yahoo.com</email>
+</user>
+
+<user id="9">
+<username>Rajitha</username>
+<address>DSNR</address>
+<phone>968899554</phone>
+<email>Rajitha123@yahoo.com</email>
+</user>
+
+<user id="10">
+<username>varsha</username>
+<address>KPHB</address>
+<phone>9088008554</phone>
+<email>varshasingh@yahoo.com</email>
+</user>
+   
+</users>
